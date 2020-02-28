@@ -114,7 +114,7 @@ If you intend to work on WP-CLI itself, see the [Setting up](https://make.wordpr
 
 The "nightly" is the bleeding-edge version of WP-CLI, built straight from the [master branch](https://github.com/wp-cli/wp-cli/commits/master).
 
-Just follow the normal [installation instructions](/#install), except change the URL to the phar file:
+Just follow the normal [installation instructions](#recommended-installation), except change the URL to the phar file:
 
 <https://raw.githubusercontent.com/wp-cli/builds/gh-pages/phar/wp-cli-nightly.phar>
 
